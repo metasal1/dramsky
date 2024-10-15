@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+:root {
+  --colors-bg-main: #0f0f0f;
+    --colors-text-main: #e5e6e1;
+    --colors-text-heading: #fff;
+    --colors-text-primary: #a5f56f;
+    --colors-golden-gradient-from: #b89b5a;
+    --colors-golden-gradient-to: #f9e0a8;
+    --colors-green-gradient-from: #087322;
+    --colors-green-gradient-to: #a5f56f;
+    --colors-bg-header: #141414;
+    --colors-box-bg: #242424;
+    --color-section-text: #c4c5ba;
+    --color-pharse-box-bg: #1f1f1f;
+    --collapsible-colors-bg: #2e2e2e
+}
+
+.backgroundImage{
+  background-image: url(/image.webp);
+  background-clip: padding-box; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  background-position: center; 
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  background-color: #0f0f0f;  
+  background-size: 40px 40px, 40px 40px, auto;
+  background-image: linear-gradient(90deg, rgba(194, 151, 245, .1) 1px, transparent 0), 
+  linear-gradient(180deg, rgba(194, 151, 245, .1) 1px, transparent 0), 
+  radial-gradient(closest-side, #180035 40%, #000 80%);
+  --purple-light: #c297f5;
+  --purple-dark: #1f183a;
+  
+}
+
+.info-box{
+  max-width: 29rem;
+  min-width: 29rem;
+  padding: 1rem;
+  color: #fff;
+
+}
+
+.text-primary-gradient{
+  background: linear-gradient(90deg,var(--colors-golden-gradient-from) 0,var(--colors-golden-gradient-to) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent; /* Fallback for browsers that don't support -webkit-text-fill-color */
+  font-family: 'Playfair Display';
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 2rem;
+}
+
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

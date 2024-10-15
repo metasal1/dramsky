@@ -1,0 +1,53 @@
+{
+    "name": "Bottle #",
+    "symbol": "SBP",
+    "description": "Crafted from carefully sourced subtropical grains and aged in handpicked bourbon casks, this Single Malt Whisky offers a bouquet of floral aromas and tropical fruits. The palate is a blend of soft oak, fresh hay, and a hint of vanilla, leading to a smooth, mellow finish. Aged 15 years. Distilled & Bottled in Taiwan",
+    "image": "https://node1.irys.xyz/GKgq7K2yfMoLW9Uq43F4CZg2MabSoT3mBwBwLSm_FHA",
+    "animation_url": "https://yellow-legislative-emu-84.mypinata.cloud/ipfs/QmQEJAf3uBP5RYRMXXGmf9XGcokp73mMyEBbX5qHzs8WGJ/dramskyBottle.mp4",
+    "external_url": "https://www.dramsky.io/redeem",
+    "attributes": [
+        {
+            "trait_type": "Region",
+            "value": "Taiwan"
+        },
+        {
+            "trait_type": "Age",
+            "value": "15 Years"
+        },
+        {
+            "trait_type": "Year Bottled",
+            "value": "2024"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Single Malt Whisky"
+        },
+        {
+            "trait_type": "Size",
+            "value": "750ml"
+        },
+        {
+            "trait_type": "ABV",
+            "value": "40%"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://yellow-legislative-emu-84.mypinata.cloud/ipfs/QmQEJAf3uBP5RYRMXXGmf9XGcokp73mMyEBbX5qHzs8WGJ/dramskyBottle.png",
+                "type": "image/png"
+            },
+            {
+                "uri": "https://yellow-legislative-emu-84.mypinata.cloud/ipfs/QmQEJAf3uBP5RYRMXXGmf9XGcokp73mMyEBbX5qHzs8WGJ/dramskyBottle.mp4",
+                "type": "video/mp4"
+            }
+        ],
+        "creators": [
+            {
+                "address": "9Y8AgrUuvvxJKy7phM65cMyPCfStHomxbv3wbZSC8F7J",
+                "share": 100
+            }
+        ],
+        "category": "video"
+    }
+}

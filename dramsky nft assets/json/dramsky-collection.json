@@ -1,0 +1,42 @@
+{
+    "name": "Dramsky Breakpoint 2024",
+    "symbol": "SBP",
+    "description": "A collectible series of limited edition whisky bottles to commemorate this year's Solana Breakpoint event in Singapore.",
+    "image": "https://yellow-legislative-emu-84.mypinata.cloud/ipfs/QmQEJAf3uBP5RYRMXXGmf9XGcokp73mMyEBbX5qHzs8WGJ/dramskyCollectionpx.webp",
+    "external_url": "https://www.dramsky.io/redeem",
+    "properties": {
+      "category": "whisky",
+      "creators": [
+        {
+          "address": "9Y8AgrUuvvxJKy7phM65cMyPCfStHomxbv3wbZSC8F7J",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Region",
+        "value": "Taiwan"
+    },
+    {
+        "trait_type": "Age",
+        "value": "15 Years"
+    },
+    {
+        "trait_type": "Year Bottled",
+        "value": "2024"
+    },
+    {
+        "trait_type": "Type",
+        "value": "Single Malt Whisky"
+    },
+    {
+        "trait_type": "Size",
+        "value": "750ml"
+    },
+    {
+        "trait_type": "ABV",
+        "value": "40%"
+    }
+    ]
+  }

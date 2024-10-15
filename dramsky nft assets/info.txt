@@ -1,0 +1,15 @@
+
+Version 2 collection size 15 = $1.60 USDC devnet 
+-------Collection PK------- 4SStzWbyDssnGJgWQfQcaEZkBinyJKe7CkwZA9z9981V
+-------Candy Machine PK------- 6rK1jvmEotEPdsKcQ7toFVo5J8L3qnde3NuHYdupQ7dv
+Email address to send to: Capt_BlockBeard@protonmail.com
+
+Version 3 collection size 15 = $1.60 USDC devnet 
+-------Collection PK------- HTj7qFTrsG1bZvdmFyp672n3VvD2Urz3fUbKAXSjhRcg
+-------Candy Machine PK------- 96sFfkL43xQy3nXxqvxqi9WatqfNjuNDWYrzeMZ8TmJM
+
+Version 4 collection size 15 = $1.60 USDC devnet 
+-------Collection PK------- 4SStzWbyDssnGJgWQfQcaEZkBinyJKe7CkwZA9z9981V
+-------Candy Machine PK------- 6rK1jvmEotEPdsKcQ7toFVo5J8L3qnde3NuHYdupQ7dv
+----- USDC Wallet PK------- Hyr4USvvLEaK3n6fMHDS6VdyiCcRnK6GkrxxHNW2JGz7
+Email address to send to: Capt_BlockBeard@protonmail.com

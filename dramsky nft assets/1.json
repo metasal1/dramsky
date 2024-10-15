@@ -1,0 +1,47 @@
+{
+    "name": "Solana Breakpoint Singapore 2024 #1",
+	"symbol": "SBP",
+    "description": "A collectible series of limited edition whisky bottles that capture the heart of Solana with some of the most iconic and respected communities that have withstood the test of time. Dramsky proudly brings to you a piece of Breakpoint within the vibrant city of Singapore.",
+    "image": "1.png",    
+    "external_url": "https://www.dramsky.io",
+    "attributes": [
+        {
+            "trait_type": "Region",
+            "value": "Taiwan"
+        },
+        {
+            "trait_type": "Age",
+            "value": "15 Years"
+        },
+        {
+            "trait_type": "Year Bottled",
+            "value": "2024"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Single Malt Whisky"
+        },
+        {
+            "trait_type": "Size",
+            "value": "750ml"
+        },
+        {
+            "trait_type": "ABV",
+            "value": "40%"
+        }
+    ],
+	"properties": {
+		"files": [
+			{
+				"uri": "1.png",
+				"type": "image/png"
+			},
+			{
+				"uri": "1.mp4",
+				"type": "video/mp4"
+			}
+	    ],
+        "category": "video"
+	},
+    "animation_url": "1.mp4"
+}
